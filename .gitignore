@@ -1,0 +1,3 @@
+app/config/static.php
+app/data/*
+!app/data/dummy

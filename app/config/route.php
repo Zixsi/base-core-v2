@@ -1,0 +1,3 @@
+<?php
+
+$route['default'] = ['index'];
